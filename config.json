@@ -1,0 +1,11 @@
+{
+    "optimizer":"adam",
+    "loss":"sparse_categorical_crossentropy",
+    "metrics":["accuracy"],
+    "epochs":"1",
+    "model":"mnist_cnn_model.h5",
+    "path":"C:\\Users\\Mantra\\Desktop\\learning\\assignment1\\model_weights.h5",
+    "image":"C:\\Users\\Mantra\\Desktop\\learning\\assignment1\\digit.jpg"
+    
+    
+  }
